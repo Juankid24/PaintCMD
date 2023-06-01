@@ -1,5 +1,7 @@
 # PaintCMD
-Proyecto de paint en consola de comandos
+Este programa es una forma diferente a la convencional de usar paint
+en vez de usar el mouse, se usaran comandos para dibujar lineas o 
+crear figuras.
 # como ejecutarlo
 Este juego se ejecuta en python3.10 utilizando la libreria pygame
 Para instalar pygame es necesario un venv 
@@ -11,4 +13,4 @@ pip install pygame
 python pigame.py
 ```
 Para ejecutar el programa es preferible hacerlo desde linux o un entorno virtual como ubuntu, pues tiene algunos errores
-al ejecutarlo desde windows, 
+al ejecutarlo desde windows.
