@@ -1,4 +1,4 @@
-# PaintCMD
+# Paint CMD
 Este programa es una forma diferente a la convencional de usar paint
 en vez de usar el mouse, se usaran comandos para dibujar lineas o 
 crear figuras.
